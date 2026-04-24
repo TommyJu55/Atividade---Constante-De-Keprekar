@@ -6,10 +6,14 @@ Este repositório contém a atividade avaliativa de lógica de programação par
 Desenvolver um algoritmo que execute a Rotina de Kaprekar, exibindo o passo a passo das iterações até atingir o valor 6174.
 
   Restrições Técnicas Aplicadas
-Conforme as exigências do edital (Seção 4), o código foi desenvolvido **sem** a utilização de:
+  
+Conforme as exigências do edital, o código foi desenvolvido **sem** a utilização de:
  Bibliotecas externas.
+ 
   Funções prontas de ordenação.
+  
 Arrays ou Listas.
+
 Processamento de texto (Strings) para manipulação de dígitos.
 
 Toda a lógica de separação, ordenação (NDC/NDD) e validação foi implementada exclusivamente através de **operações aritméticas** (divisão inteira e resto), estruturas de repetição (`while`, `for`) e condicionais (`if`, `else`).
